@@ -71,3 +71,20 @@ nav a:hover {
 .banner4 {
     width: 40%;
 }
+
+footer {
+    text-align: center;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkQ4fxZ7Xz1TjvaSXlwAMGRcFHyt3s69HOqA&usqp=CAU);
+    padding: 40px 0;
+}
+
+body, h1, h2, h3, p, ul {
+    margin: 0;
+    padding: 0;
+}
+
+.copyright {
+    color: #000000;
+    font-size: 13px;
+    margin: 20px 0 0;
+}
