@@ -1,1 +1,26 @@
+  #banner {
+                 width: 20%;
+             }
 
+               nav li {
+                  display: inline
+             }            
+
+                nav a {
+                    text-transform: uppercase;
+                    color: #000000;
+                }   
+
+                #banner2 {
+                    margin-right: 15%;
+                    Width: 20%;
+                    vertical-align: top;
+                    display: inline-block;
+                }
+
+                #banner3 {
+                    margin-right: 15%;
+                    width: 20%;
+                    vertical-align: top;
+                    display: inline-block;
+                }
